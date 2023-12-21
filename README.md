@@ -3,7 +3,7 @@ This code is a Python program that creates a graphical user interface (GUI) for 
 
 To use this code:
 
-1. Save the code as a file with a `.py` extension, such as `chatbot.py`.
+1. Nothing complex here, simply copy my repo or just the gemini.py file.
 2. Install the required Python libraries using the `pip` command:
 ```
 pip install tkinter google.generativeai IPython
@@ -11,7 +11,7 @@ pip install tkinter google.generativeai IPython
 3. Open a terminal or command prompt and navigate to the directory where the Python file is saved.
 4. Run the following command to start the GUI:
 ```
-python chatbot.py
+python gemini.py
 ```
 5. The GUI will open, and you can start chatting with Gemini-Pro by typing your messages in the user input entry box and clicking the send button.
 
