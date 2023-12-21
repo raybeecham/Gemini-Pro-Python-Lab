@@ -17,6 +17,6 @@ python chatbot.py
 
 A screenshot of the GUI is attached below:
 
-![My image]([https://github.com/your-username/your-repository/blob/main/path/to/my-image.png](https://github.com/raybeecham/Gemini-Pro-Python-Lab/blob/main/GeminiPro.png))
+![My image](https://github.com/raybeecham/Gemini-Pro-Python-Lab/blob/main/GeminiPro.png)
 
 I hope this explanation is clear and helpful! Let me know if you have any other questions.
