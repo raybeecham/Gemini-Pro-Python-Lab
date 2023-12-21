@@ -1,4 +1,4 @@
-# Gemini-Pro-Python-Sandbox
+# Gemini-Pro-Python-Laboratory
 This code is a Python program that creates a graphical user interface (GUI) for chatting with Gemini-Pro, a chatbot developed by Google. The GUI includes a welcome label, a chat history text box, a user input entry box, a send button, and a clear button. The chat history and user input entry box are styled with custom fonts and colors.
 
 To use this code:
